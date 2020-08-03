@@ -13,9 +13,7 @@ author: AnkiQueen
 
 navbar-links:
   About Us: "aboutus"
-  Resources:
-    - Step 2 CK: "https://beautifuljekyll.com"
-    - MCAT: "https://www.markdowntutorial.com/"
+  Decks: "decks"
 
 # --- Logo --- #
 
