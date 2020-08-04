@@ -12,8 +12,8 @@ author: AnkiQueen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutus"
   Decks: "decks"
+  About Us: "aboutus"
 
 # --- Logo --- #
 
